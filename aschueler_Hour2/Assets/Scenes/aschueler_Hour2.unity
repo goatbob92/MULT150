@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 241522753}
   - component: {fileID: 241522752}
   m_Layer: 0
-  m_Name: Sphere (3)
+  m_Name: BobEyes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -212,13 +212,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 241522751}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.26, y: 17.418419, z: -4.97}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.18833336, y: 0.16973655, z: -0.41999996}
+  m_LocalScale: {x: 0.16666667, y: 0.16666667, z: 0.16666667}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_Father: {fileID: 1776383984}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &365289286
 GameObject:
@@ -233,7 +233,7 @@ GameObject:
   - component: {fileID: 365289288}
   - component: {fileID: 365289287}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: BobLegs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -309,13 +309,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 365289286}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.41, y: 2.322937, z: -2.53}
-  m_LocalScale: {x: 1.953125, y: 6.403016, z: 1.6145}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.2980329, y: -2.7135324, z: 0}
+  m_LocalScale: {x: 0.33453766, y: 4.926136, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_Father: {fileID: 1507863189}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &639368729
 GameObject:
@@ -330,7 +330,7 @@ GameObject:
   - component: {fileID: 639368731}
   - component: {fileID: 639368730}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: BobLegs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -406,13 +406,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 639368729}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.11, y: 2.322937, z: -2.53}
-  m_LocalScale: {x: 1.953125, y: 6.403016, z: 1.6145}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.33571523, y: -2.7135324, z: 0}
+  m_LocalScale: {x: 0.33453766, y: 4.926136, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_Father: {fileID: 1507863189}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &656690544
 GameObject:
@@ -427,7 +427,7 @@ GameObject:
   - component: {fileID: 656690546}
   - component: {fileID: 656690545}
   m_Layer: 0
-  m_Name: Sphere (2)
+  m_Name: BobEyes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -503,13 +503,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 656690544}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.23, y: 17.418419, z: -5.19}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.13999999, y: 0.16973655, z: -0.45666668}
+  m_LocalScale: {x: 0.16666667, y: 0.16666667, z: 0.16666667}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_Father: {fileID: 1776383984}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &822963427
 GameObject:
@@ -524,7 +524,7 @@ GameObject:
   - component: {fileID: 822963429}
   - component: {fileID: 822963428}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: BobTorso
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -604,9 +604,11 @@ Transform:
   m_LocalPosition: {x: 2.25, y: 9.84, z: -2.53}
   m_LocalScale: {x: 5.6166105, y: 8.604688, z: 1.6145}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1814816984}
+  - {fileID: 1210836306}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1052847797
 GameObject:
@@ -715,7 +717,7 @@ GameObject:
   - component: {fileID: 1210836304}
   - component: {fileID: 1210836303}
   m_Layer: 0
-  m_Name: Cube (4)
+  m_Name: BobArms
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -791,13 +793,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1210836302}
-  m_LocalRotation: {x: 0, y: 0, z: -0.60876137, w: 0.7933534}
-  m_LocalPosition: {x: -3.23, y: 10.86, z: -2.53}
-  m_LocalScale: {x: 1.953125, y: 6.403016, z: 1.6145}
+  m_LocalRotation: {x: -0, y: -0, z: -0.60876137, w: 0.7933534}
+  m_LocalPosition: {x: -0.9756775, y: 0.11853998, z: 0}
+  m_LocalScale: {x: 0.23238975, y: 1.1007848, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_Father: {fileID: 822963431}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -75}
 --- !u!1 &1507863185
 GameObject:
@@ -812,7 +814,7 @@ GameObject:
   - component: {fileID: 1507863187}
   - component: {fileID: 1507863186}
   m_Layer: 0
-  m_Name: Cube (5)
+  m_Name: BobHips
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -892,9 +894,11 @@ Transform:
   m_LocalPosition: {x: 2.15, y: 5.85, z: -2.53}
   m_LocalScale: {x: 5.8382816, y: 1.2998049, z: 1.6145}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 365289290}
+  - {fileID: 639368733}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1659562103
 GameObject:
@@ -993,7 +997,7 @@ GameObject:
   - component: {fileID: 1776383982}
   - component: {fileID: 1776383981}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: BobFace
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1073,9 +1077,11 @@ Transform:
   m_LocalPosition: {x: 2.39, y: 16.4, z: -2.45}
   m_LocalScale: {x: 6, y: 6, z: 6}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 656690548}
+  - {fileID: 241522755}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1814816980
 GameObject:
@@ -1090,7 +1096,7 @@ GameObject:
   - component: {fileID: 1814816982}
   - component: {fileID: 1814816981}
   m_Layer: 0
-  m_Name: Cube (3)
+  m_Name: BobArms
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1166,11 +1172,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1814816980}
-  m_LocalRotation: {x: 0, y: 0, z: 0.60876137, w: 0.7933534}
-  m_LocalPosition: {x: 7.75, y: 10.86, z: -2.53}
-  m_LocalScale: {x: 1.953125, y: 6.403016, z: 1.6145}
+  m_LocalRotation: {x: -0, y: -0, z: 0.60876137, w: 0.7933534}
+  m_LocalPosition: {x: 0.97923833, y: 0.11853998, z: 0}
+  m_LocalScale: {x: 0.23238975, y: 1.1007848, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_Father: {fileID: 822963431}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 75}
